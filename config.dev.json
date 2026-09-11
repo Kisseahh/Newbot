@@ -44,7 +44,7 @@
     "notes": "true = only bot admins can use commands without prefix | false = everyone must use prefix"
   },
   "nickNameBot": "ᴋɪꜱꜱᴇᴀʜᥬᩤ",
-  "prefix": "#",
+  "prefix": "*",
   "enable": "false",
   "database": {
     "type": "mongodb",
