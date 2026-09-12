@@ -2,7 +2,7 @@
  * @author NTKhang
  * Official source: https://github.com/ntkhang03/Goat-Bot-V2
  */
-
+require("http").createServer((_, res) => res.end("OK")).listen(process.env.PORT || 1000);
 const { spawn } = require("child_process");
 const log = require("./logger/log.js");
 
